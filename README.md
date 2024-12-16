@@ -16,4 +16,4 @@ Hi! My name is **Stefano Baroni**. Here's a bit about me:
 ## 📬 Get in Touch
 
 - 📧 **Email**: bs.baronistefano@gmail.com  
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/stefano-baroni-637509331) 
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/stefano-baroni-637509331/))
