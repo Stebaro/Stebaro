@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! My name is **[Your Full Name]**. Here's a bit about me:  
+Hi! My name is **Stefano Baroni**. Here's a bit about me:  
 - 🎓 **Bachelor's degree** in Computer Science Engineering from the University of Modena and Reggio Emilia (2022).  
 - 🎓 **Master's degree** in Computer Science Engineering with a focus on Artificial Intelligence from the Politecnico di Milano (2024).  
 
@@ -15,5 +15,5 @@ Hi! My name is **[Your Full Name]**. Here's a bit about me:
 
 ## 📬 Get in Touch
 
-- 📧 **Email**: [Your Email Address]  
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](#)  
+- 📧 **Email**: bs.baronistefano@gmail.com  
+- 🔗 **LinkedIn**: www.linkedin.com/in/stefano-baroni-637509331(#)  
