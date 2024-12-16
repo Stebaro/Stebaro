@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Stebaro/stebaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Hi! My name is **[Your Full Name]**. Here's a bit about me:  
+- 🎓 **Bachelor's degree** in Computer Science Engineering from the University of Modena and Reggio Emilia (2022).  
+- 🎓 **Master's degree** in Computer Science Engineering with a focus on Artificial Intelligence from the Politecnico di Milano (2024).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 My Passions
+
+- 🤖 Artificial Intelligence  
+- 🧠 Neural Networks  
+- 📊 Data Science and Machine Learning  
+- 🚀 Developing innovative solutions for real-world problems  
+
+## 📬 Get in Touch
+
+- 📧 **Email**: [Your Email Address]  
+- 🔗 **LinkedIn**: [Your LinkedIn Profile](#)  
